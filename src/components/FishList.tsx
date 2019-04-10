@@ -1,7 +1,7 @@
 import React from 'react';
-import { Fish, FishGroup } from '../store/fishes/types';
+import {Fish} from '../store/fishes/types';
 import FishListItem from './FishListItem';
-import { IonList, IonListHeader, IonItemGroup, IonItemDivider, IonLabel } from '@ionic/react';
+import {IonList, IonListHeader} from '@ionic/react';
 
 interface Props {
   fishes: Fish[]
