@@ -1,0 +1,7 @@
+.branch-detail img {
+  max-width: 140px;
+  border-radius: 50%;
+}
+.branch-detail p {
+  color: #60646B;
+}

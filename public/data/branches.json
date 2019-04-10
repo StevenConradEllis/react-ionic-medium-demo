@@ -1,0 +1,46 @@
+[{
+  "id": 1,
+  "name": "Live Aquaria",
+  "profilePic": "/assets/img/branches/img001.jpeg",
+  "twitter": "ionicframework",
+  "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "location": "Everywhere",
+  "email": "example@example.com",
+  "phone": "+1-541-754-3010"
+}, {
+  "id": 2,
+  "name": "Tropical Pet Land",
+  "profilePic": "/assets/img/branches/img002.jpeg",
+  "twitter": "ionicframework",
+  "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "location": "Everywhere",
+  "email": "charlie@example.com",
+  "phone": "+1-541-754-3010"
+}, {
+  "id": 3,
+  "name": "Goldfish Treasures",
+  "profilePic": "/assets/img/branches/img003.jpeg",
+  "twitter": "ionicframework",
+  "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..",
+  "location": "Everywhere",
+  "email": "example@example.com",
+  "phone": "+1-541-754-3010"
+}, {
+  "id": 4,
+  "name": "Fishkeeping World",
+  "profilePic": "/assets/img/branches/img004.jpeg",
+  "twitter": "ionicframework",
+  "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "location": "Everywhere",
+  "email": "example@example.com",
+  "phone": "+1-541-754-3010"
+}, {
+  "id": 5,
+  "name": "GuppyLand",
+  "profilePic": "/assets/img/branches/img005.jpeg",
+  "twitter": "ionicframework",
+  "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "location": "Everywhere",
+  "email": "example@example.com",
+  "phone": "+1-541-754-3010"
+}]

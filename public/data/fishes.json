@@ -1,0 +1,72 @@
+[{
+  "id": 1,
+  "name": "Neon Tetra",
+  "description": "Although small in size, these beautifully coloured, cool freshwater fish will surely take advantage of every bit of space in your tank and are one of the easiest fish to care for. They love being in groups, so the bigger the group, the happier they will be, so don’t be afraid of keeping as many as you want.",
+  "branchIds": [1, 2, 4, 5],
+  "pic": "/assets/img/fish/neon-tetra.jpg",
+  "tags": ["Peaceful", "Freshwater", "Hardy"]
+}, {
+  "id": 2,
+  "name": "Danios",
+  "description": "One of the more hardy freshwater aquarium fish available for beginners are Danios. Due to their hardiness, they are the perfect fish for people who don’t have much experience with setting up a tank. They can survive in a variety of different water conditions.",
+  "branchIds": [2, 5],
+  "pic": "/assets/img/fish/danios.jpg",
+  "tags": ["Peaceful", "Freshwater", "Hardy"]
+}, {
+  "id": 3,
+  "name": "Platies",
+  "description": "A perfect fish for the community tank. Platies are a very peaceful fish which will live peacefully with any other non-aggressive fish. There are lots of varieties to choose from, and they come with a variety of different colours, as a result of selective breeding.",
+  "branchIds": [1, 3],
+  "pic": "/assets/img/fish/platie.jpg",
+  "tags": ["Peaceful", "Freshwater", "Hardy"]
+}, {
+  "id": 4,
+ "name": "Guppies",
+  "description": "A colorful freshwater aquarium fish that are perfect for beginners are Guppies. Although the behaviour and characteristics tend to be the same from fish to fish, Guppies come in a wide range of colours. They are a hardy fish, and they can eat regular fish flakes. However, like many fish we stock, they can also eat frozen (or live) brine shrimp, blood worms, and Daphnia. The fact that Guppies can go over a week without food, shows how hardy they are.",
+  "branchIds": [2, 4, 5],
+  "pic": "/assets/img/fish/guppy.jpg",
+  "tags": ["Peaceful", "Freshwater", "Hardy"]
+}, {
+  "id": 5,
+  "name": "Fire Mouth Cichilid",
+   "description": "Given its name because of the red colouration of its scales during breeding, the Fire Mouth Cichilid is a perfect fish for new fishkeepers. Although they CAN become pretty territorial during breeding season, they are relatively friendly. To be on the safe side, we recommend you keep these on their own, but if you want to mix them with other species, then make sure you provide rocks or an upturned plant pot where they can hide away in peace, to lay their eggs.",
+  "branchIds": [3, 4, 5],
+  "pic": "/assets/img/fish/firemouth-cichilid.jpg",
+  "tags": ["Aggressive", "Freshwater", "Hardy"]
+}, {
+  "id": 6,
+  "name": "Pearl Gourami",
+  "description": "Also known as the Lace Gourami, this cool tropical freshwater fish is one of the most popular Gourami fish for aquarium lovers, thanks to its beautiful appearance and its hardy build. They are easy to care for and can be kept in tanks with at least 30 gallons of water, but like many other types of Gourami, they do require space at the top of the tank so they can breathe air.",
+  "branchIds": [1, 3, 4],
+  "pic": "/assets/img/fish/pearl-gourami.jpg",
+  "tags": ["Peaceful", "Freshwater", "Hardy", "Long Living"]
+}, {
+  "id": 7,
+  "name": "Tiger Pleco",
+  "description": "A peaceful freshwater fish, originating from South America (The Amazon River in Brazil) is the Tiger Pleco. Because they spend most of their time at the bottom of the tank, they do well with sinking food such as pellets, but they also thrive on brine shrimp and blood worms. Keeping Plecos nice and satiated will keep them from eating your tanks plants, which they can have a tendency to do.",
+  "branchIds": [2, 5],
+  "pic": "/assets/img/fish/tiger-pleco.jpg",
+  "tags": ["Peaceful", "Freshwater", "Hardy", "Territorial", "Long Living"]
+}, {
+  "id": 8,
+  "name": "Mollies",
+  "description": "Mollies are a versatile fish which can survive in both freshwater and saltwater aquariums if the changes are made gradually. They are great for beginners because they are extremely hardy, and are not as aggressive as some other tropical fish. There are many to choose from, and the term ‘mollies’ is quite vague since there are so many variations of size, color and optimal tank conditions.",
+  "branchIds": [1, 3],
+  "pic": "/assets/img/fish/mollies.jpg",
+  "tags": ["Peaceful", "Freshwater", "Saltwater", "Hardy"]
+}, {
+  "id": 9,
+  "name": "Sword Tails",
+  "description": "Often touted as a ‘beginner only’ fish, swordtails (Given the name due to the sword like shape of their tails) have recently begun to build a huge following of devoted fans, looking to seek out the rarest of the species. Mostly found in small streams, swordtails typically prefer a plant-based diet, so a tank full of naturally occurring algae will be perfect for them, however, they also do well with live foods from time to time. A vegetable-based flake would be the perfect food for them on a consistent basis.",
+  "branchIds": [3, 4, 5],
+  "pic": "/assets/img/fish/sword-tails.jpg",
+  "tags": ["Peaceful", "Freshwater"]
+}, {
+  "id": 10,
+  "name": "Betta",
+  "description": "Although not typically recommended as a beginner fish, due to their aggressive nature (They aren’t called Siamese Fighting Fish for nothing), the Betta fish will generally be aggressive toward other Betta fish, so as long as you only keep one, they should be fine. We have added the Betta to our list of best freshwater fish for beginners because they are one of the most stunning tropical fish you can keep. The long colourful fins will catch the eyes of anyone having a peek in your tank. Betta fish are also very easy to care for, and they will eat most types of food including fish flakes, blood-worms and brine shrimp. For a treat, try offering some live foods to the tank.",
+  "branchIds": [1, 2, 3],
+  "pic": "/assets/img/fish/beta-fish.jpg",
+  "tags": ["Aggressive", "Beautiful", "Freshwater"]
+}
+]

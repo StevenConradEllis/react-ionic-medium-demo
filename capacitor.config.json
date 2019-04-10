@@ -1,0 +1,6 @@
+{
+  "appId": "com.fishemporium.steves",
+  "appName": "Steve's Fish Emporium",
+  "bundledWebRuntime": false,
+  "webDir": "build"
+}
